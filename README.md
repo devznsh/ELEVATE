@@ -25,21 +25,33 @@ ELEVATE is an AI-powered career guidance system that recommends personalized car
 | Deployment         | Streamlit Community Cloud |
 | Data Processing    | Pandas, NumPy |
 
-## 🏗️ Project Structure
-ELEVATE/
-├── app/
-│ ├── main.py # Main application
-│ ├── models/ # AI recommendation models
-│ │ ├── bert_recommender.py
-│ │ └── roadmap_generator.py
-│ ├── data/ # Career datasets
-│ │ ├── careers.csv
-│ │ └── roadmaps.json
-│ └── utils/ # Helper functions
-│ └── helpers.py
-├── requirements.txt # Dependencies
-└── README.md
+## 📂 Project Structure
 
+```
+ELEVATE/
+├── app/                      # Main application directory
+│   ├── __init__.py           # Python package marker
+│   ├── main.py               # Streamlit application entry point
+│   ├── models/               # AI recommendation models
+│   │   ├── __init__.py       # Package initialization
+│   │   ├── bert_recommender.py  # BERT-based career recommendation engine
+│   │   └── roadmap_generator.py # Learning path generator
+│   ├── data/                 # Career datasets and knowledge base
+│   │   ├── __init__.py
+│   │   ├── careers.csv       # Career profiles and skills data
+│   │   └── roadmaps.json     # Learning roadmaps for each career
+│   ├── static/               # Static assets
+│   │   ├── css/
+│   │   │   └── style.css     # Custom styles
+│   │   └── images/           # App images/logos
+│   └── utils/                # Utility functions
+│       ├── __init__.py
+│       ├── config.py         # Application configuration
+│       └── helpers.py        # Helper functions
+├── .gitignore               # Specifies untracked files
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
+```
 
 ## 🚀 Live Deployment
 
