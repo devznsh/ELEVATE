@@ -1,0 +1,84 @@
+{
+    "Data Scientist": [
+      {
+        "phase": "Fundamentals",
+        "duration": "3 months",
+        "tasks": [
+          "Learn Python programming",
+          "Study statistics and probability",
+          "Master Pandas and NumPy",
+          "Learn SQL fundamentals"
+        ]
+      },
+      {
+        "phase": "Machine Learning",
+        "duration": "4 months",
+        "tasks": [
+          "Complete ML course (Andrew Ng)",
+          "Practice with Kaggle datasets",
+          "Learn scikit-learn",
+          "Understand model evaluation"
+        ]
+      }
+    ],
+    "AI Engineer": [
+      {
+        "phase": "Core Skills",
+        "duration": "3 months",
+        "tasks": [
+          "Master Python for AI",
+          "Learn PyTorch/TensorFlow",
+          "Study neural networks",
+          "Complete NLP fundamentals"
+        ]
+      }
+    ],
+    "Full-Stack Developer": [
+      {
+        "phase": "Frontend",
+        "duration": "3 months",
+        "tasks": [
+          "Learn HTML/CSS/JavaScript",
+          "Master React framework",
+          "Practice responsive design",
+          "Build portfolio projects"
+        ]
+      }
+    ],
+    "UX Designer": [
+      {
+        "phase": "Foundation",
+        "duration": "2 months",
+        "tasks": [
+          "Learn Figma/Sketch",
+          "Study color theory",
+          "Complete UX research course",
+          "Analyze popular apps"
+        ]
+      }
+    ],
+    "Blockchain Developer": [
+      {
+        "phase": "Ethereum Basics",
+        "duration": "2 months",
+        "tasks": [
+          "Learn Solidity syntax",
+          "Set up MetaMask wallet",
+          "Complete CryptoZombies tutorial",
+          "Deploy first smart contract"
+        ]
+      }
+    ],
+    "Generic": [
+      {
+        "phase": "Getting Started",
+        "duration": "2 months",
+        "tasks": [
+          "Research core role requirements",
+          "Identify key tools/technologies",
+          "Complete beginner tutorials",
+          "Join relevant communities"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,11 @@
+profession,skills,resources,keywords
+Data Scientist,"Python, Machine Learning, Statistics, Data Visualization, SQL","Coursera: Machine Learning by Andrew Ng, Kaggle, Fast.ai","data,ml,ai,statistics,analysis"
+AI Engineer,"Python, Deep Learning, TensorFlow/PyTorch, NLP, Computer Vision","Deep Learning Specialization, Hugging Face Courses, arXiv papers","ai,deep learning,nlp,vision"
+Cloud Architect,"AWS/Azure/GCP, Networking, Security, Infrastructure as Code","AWS Certified Solutions Architect, Google Cloud Professional","cloud,devops,servers,scalability"
+Cybersecurity Analyst,"Network Security, Ethical Hacking, SIEM Tools, Compliance","CEH Certification, CompTIA Security+, TryHackMe","security,hacking,cyber,firewall"
+Product Manager,"Agile, Market Research, UX Principles, Roadmapping","Coursera: Digital Product Management, books like 'Inspired'","product,management,agile,ux"
+Full-Stack Developer,"JavaScript, React, Node.js, Databases, APIs","freeCodeCamp, The Odin Project, MDN Web Docs","web,frontend,backend,js"
+Data Engineer,"SQL, ETL, Data Warehousing, Apache Spark","Data Engineering on GCP, Spark Documentation","data,pipelines,etl,warehouse"
+UX Designer,"Figma, User Research, Wireframing, Prototyping","NN/g UX Courses, books like 'Don't Make Me Think'","design,ui,ux,research"
+DevOps Engineer,"Docker, Kubernetes, CI/CD, Infrastructure as Code","Kubernetes Documentation, DevOps Handbook","devops,cloud,automation,scaling"
+Blockchain Developer,"Solidity, Smart Contracts, Ethereum, Cryptography","Ethereum Documentation, CryptoZombies tutorial","blockchain,crypto,web3,solidity"
