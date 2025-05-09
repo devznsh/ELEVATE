@@ -53,11 +53,6 @@ ELEVATE/
 └── README.md                # Project documentation
 ```
 
-## 🚀 Live Deployment
-
-Access the live application here:  
-🔗 [https://elevatesystem.streamlit.app/](https://elevatesystem.streamlit.app/)
-
 ## 💻 Local Development
 
 ### Prerequisites
